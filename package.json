@@ -1,0 +1,25 @@
+{
+  "name": "data-structures-and-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiacomoPignoni/Data-Structures-and-Algorithms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiacomoPignoni/Data-Structures-and-Algorithms/issues"
+  },
+  "homepage": "https://github.com/GiacomoPignoni/Data-Structures-and-Algorithms#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.19.0",
+    "@typescript-eslint/parser": "^4.19.0",
+    "eslint": "^7.22.0",
+    "typescript": "^4.2.3"
+  }
+}
